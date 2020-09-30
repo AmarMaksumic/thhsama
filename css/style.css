@@ -114,13 +114,13 @@ hr {
    ========================================================================== */
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
+  background: url(../img/cover_photo.jpg) no-repeat center top;
   margin-top: -10px;
   padding-top: 20px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 800px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -141,11 +141,11 @@ hr {
 }
 
 #headerwrap h2 {
-  color: white;
-  font-size: 40px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+  margin-top: 100px;
+  color: purple;
+  font-size: 70px;
+  font-weight: 300;
+  letter-spacing: 3px;
 }
 
 @media (max-width: 768px ) {
@@ -187,7 +187,7 @@ hr {
 /* Red Wrap */
 
 #r {
-  background: #ff7878;
+  background: #800080;
   padding-top: 35px;
   padding-bottom: 35px;
 }
