@@ -164,15 +164,24 @@ hr {
 
 /* Dark Grey Wrap */
 
-#dg {
+.dg {
+  color: #ff7878;
   background: #e0e0e0;
   padding-top: 70px;
   padding-bottom: 70px;
+  padding-top: 35px;
+  margin-bottom: 0px;
   text-align: center;
+  width: 100%;
 }
 
-#dg h4 {
+.dg h4 {
   font-weight: 700;
+}
+
+.dg i {
+  color: #ff7878;
+  font-size: 30px;
 }
 
 /* Light Grey */
@@ -203,6 +212,11 @@ hr {
 
 #p p {
   color: white;
+}
+
+.p i {
+  color: #ff7878;
+  font-size: 30px;
 }
 
 #p button  {
@@ -272,6 +286,11 @@ hr {
 .wb {
   padding-top: 35px;
   margin-bottom: 0px;
+}
+
+.wb i {
+  color: #ff7878;
+  font-size: 30px;
 }
 
 .wb h4 {
